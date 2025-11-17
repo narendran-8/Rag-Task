@@ -4,6 +4,11 @@
 ./quick_test.py
 ./store.*
 ./*test
+./ENDPOINT_TEST_REPORT.txt
+
+main2.py
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
