@@ -1,3 +1,10 @@
+#Own Rule
+
+./main2.py
+./quick_test.py
+./store.*
+./*test
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

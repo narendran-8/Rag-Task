@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+python-dotenv
+typesense
+langgraph
+langchain-text-splitters
+langgraph-checkpoint-sqlite
+langchain-google-genai
+Fastapi[all]
